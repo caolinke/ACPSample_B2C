@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ACPSample_B2C.iml" filepath="$PROJECT_DIR$/ACPSample_B2C.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/assets/assets.iml" filepath="$PROJECT_DIR$/src/assets/assets.iml" />
+    </modules>
+  </component>
+</project>

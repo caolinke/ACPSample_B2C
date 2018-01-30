@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="apache_httpclient">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/assets/apache_httpclient/commons-httpclient-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/assets/apache_httpclient/commons-logging-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
